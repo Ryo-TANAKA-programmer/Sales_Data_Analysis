@@ -1,6 +1,6 @@
 # Sales Data Analysis
 
-# Introduction
+# Introduction 
 
 The Sales Data Project is based on a set of 12 authentic monthly sales dataframes. 
 Having 12 csv files on hand, I kicked off the project by merging. 
